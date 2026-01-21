@@ -122,6 +122,9 @@ all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
+⚠️ Security Note:
+Blynk Auth Token is not included in this repository for security reasons.
+
 ---
 
 ⭐ If you like this project, feel free to star the repository!
