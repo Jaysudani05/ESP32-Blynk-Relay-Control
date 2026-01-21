@@ -28,7 +28,7 @@ The project is simulated and tested using **Wokwi**, allowing virtual hardware t
 ---
 
 ## 🔌 Circuit Diagram
-> *(Add circuit diagram screenshot here)*  
+circuit.png
 
 ### Relay Connections
 
