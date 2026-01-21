@@ -28,7 +28,8 @@ The project is simulated and tested using **Wokwi**, allowing virtual hardware t
 ---
 
 ## 🔌 Circuit Diagram
-circuit.png
+![Circuit Diagram](images/circuit.png)
+
 
 ### Relay Connections
 
@@ -86,7 +87,7 @@ Test this project online:
 ---
 
 ## 📸 Screenshots
-> *(Add working screenshots here later)*  
+![Output Screenshot](images/output.png)  
 
 ---
 
