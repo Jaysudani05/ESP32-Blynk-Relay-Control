@@ -71,13 +71,6 @@ The project is simulated and tested using **Wokwi**, allowing virtual hardware t
 
 ---
 
-## 🖥️ Wokwi Simulation
-Test this project online:
-
-🔗 https://wokwi.com/projects/453737781482057729  
-
----
-
 ## 📂 Project Files
 - `sketch.ino` – ESP32 source code  
 - `diagram.json` – Circuit connections (Wokwi)  
