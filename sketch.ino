@@ -1,6 +1,6 @@
 #define BLYNK_TEMPLATE_ID "TMPL3CCkfCa6c"
 #define BLYNK_TEMPLATE_NAME "IOT Home Automation"
-#define BLYNK_AUTH_TOKEN "nXMjtQFOFu2sqrZ7YPsr1t35TYRL_pnI"
+#define BLYNK_AUTH_TOKEN "YOUR_AUTH_TOKEN"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
